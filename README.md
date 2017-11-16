@@ -1,5 +1,5 @@
 # SiteSpect SPA SDK
-SiteSpect JavaScript Library for optimizing React, Angular, and other single page applications. 
+SiteSpect JavaScript Library for testing and optimizing React, Angular, and other SPA frameworks. 
 
 The SPA SDK is dynamically injected into the HTML page by SiteSpect as one minified script that is less than 5kb gzipped. You can see a live version <a href="http://www.sitespect.com/__ssobj/core.js+ssdomvar.js+generic-adapter.js">here</a>. The library is split into 3 smaller libraries:
 - <a href="https://github.com/sitespect/SiteSpect_SPA_SDK/blob/master/generic-adapter-debug.js">GenericAdapter</a> - Library that uses Mutation Observers to identify when changes should be applied. 
